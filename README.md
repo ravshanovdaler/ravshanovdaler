@@ -7,7 +7,7 @@ I'm Daler Ravshanov from Uzbekistan and i'm python developer.I really enjoy lear
 Skills: python / django / telegram-bot / beautiful--soup / api / vuejs
 
 - 🔭 I’m currently working on Myself "Learning more" 
-- 🌱 I’m currently learning Vuejs 
+- 🌱 I’m currently learning Django Rest Framework 
 - 💬 Ask me about python development 
 - 📫 How to reach me: https://t.me/Daler_ravshanov 
 
