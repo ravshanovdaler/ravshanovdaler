@@ -4,7 +4,7 @@
 
 I'm Daler Ravshanov from Uzbekistan and i'm python developer.I really enjoy learning programming languages and frameworks like django,pytorch,opencv,tensorflow and so on.I also enjoy making websites and software applications using them.
 
-Skills: python / django / telegram-bot / beautiful--soup / api / vuejs
+Skills: python / django / telegram-bot / beautiful--soup / api / rest framework
 
 - 🔭 I’m currently working on Myself "Learning more" 
 - 🌱 I’m currently learning Django Rest Framework 
